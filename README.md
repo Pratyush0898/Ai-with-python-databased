@@ -1,5 +1,8 @@
 # Ai with python (databased)
 
+Description
+* We are making a AI with help of python programming languages without and modules and use of input, if, elif, else and print statement.
+
 Overview
 
 * This is a small module of ai made-up of python programming language
