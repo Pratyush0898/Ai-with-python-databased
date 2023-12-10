@@ -1,19 +1,19 @@
 # Ai with python (databased)
 
-Description
+## Description
 * We are making a AI with help of python programming languages without and modules and use of input, if, elif, else and print statement.
 
-Overview
+## Overview
 
 * This is a small module of ai made-up of python programming language
 * It is containing some data
 * It is developed by Pratyush Developers
 
-How to use, which question is available
+## How to use, which question is available
 * It give only some answer of questions
 * You can give quetion only one time
 
-Here are the topics for the questions in the provided code:
+## Here are the topics for the questions in the provided code:
 
 1. Artificial Intelligence (AI)
 2. GitHub
@@ -49,7 +49,7 @@ Here are the topics for the questions in the provided code:
 32. Google
 33. Python
 
-How it work
+## How it work
 * It contatian some data
 * first it input
 * if quetion is given in data, so give it's answer (quetion and answer is given in data)
@@ -58,9 +58,9 @@ How it work
 * example:
 * If this is there give this answer
 
-about us
+## Join us
 * Join our team pratyushdevs.wordpress.com
 * lear codeing for free learn2code4.wordpress.com
 
-Contact us
+## Contact us
 * email: pratyush0898@gmail.com
