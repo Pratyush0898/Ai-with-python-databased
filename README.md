@@ -60,7 +60,7 @@
 
 ## Join us
 * Join our team [Pratyush developers](pratyushdevs.wordpress.com)
-* lear codeing for free [earn2code4](learn2code4.wordpress.com)
+* lear codeing for free [Learn2code4](learn2code4.wordpress.com)
 
 ## Contact us
 * email: pratyush0898@gmail.com
