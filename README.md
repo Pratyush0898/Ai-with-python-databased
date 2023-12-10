@@ -59,8 +59,8 @@
 * If this is there give this answer
 
 ## Join us
-* Join our team pratyushdevs.wordpress.com
-* lear codeing for free learn2code4.wordpress.com
+* Join our team (Pratyush developers)[pratyushdevs.wordpress.com]
+* lear codeing for free (Learn2code4)[learn2code4.wordpress.com]
 
 ## Contact us
 * email: pratyush0898@gmail.com
