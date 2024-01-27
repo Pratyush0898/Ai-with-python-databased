@@ -53,10 +53,8 @@
 * It contatian some data
 * first it input
 * if quetion is given in data, so give it's answer (quetion and answer is given in data)
-*  if quetion is given in data, so print "quetion is not in data"
+*  if quetion is not given in data, so print "quetion is not in data"
 
-* example:
-* If this is there give this answer
 
 ## Join us
 * Join our team [Pratyush developers](pratyushdevs.wordpress.com)
